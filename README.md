@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=Hi%20I'm%20Rhea!&fontSize=30&fontColor=ffffff" width="100%"/> 
- Hi, I am Rhea Bachheti 
+ Hi, I am Rhea Bachheti <br/>
 > Computer Science student @XIM University<br/>
 > Diploma in Computer Science @Graphic Era University<br/>
 
